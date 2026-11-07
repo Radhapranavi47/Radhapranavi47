@@ -2,10 +2,6 @@
 <h3 align="center">A passionate individual deeply interested in the realms of machine learning and data science.With a solid foundation in Java, C, Python, HTML, and CSS, I enjoy crafting solutions that blend creativity with technical precision.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhapranavi47&label=Profile%20views&color=0e75b6&style=flat" alt="radhapranavi47" /> </p>
 
-- 🔭 I’m currently studying **Bachelor of Technology in Information Technology**
-
-- 🌱 I’m currently learning **Machine Learning and Devops**
-
 - 📫 How to reach me **radhapranavi74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
